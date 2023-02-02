@@ -1,2 +1,2 @@
 
-<a href="https://pgw-react-shop.netlify.app/">https://pgw-react-shop.netlify.app/</a>
+<a href="https://pgw-react-shop.netlify.app/"> https://pgw-shop-react.netlify.app/ </a>
